@@ -1,0 +1,151 @@
+.nav1 {
+  background-color: rgb(56, 132, 224);
+  padding: 10px;
+}
+
+.logbt {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  
+}
+
+.bt {
+  background-color: aliceblue;
+  margin-right: 10px;
+}
+
+.login {
+  margin-left: 60%;
+  padding: 20px;
+  width: 500px;
+  border-radius: 10px;
+  box-shadow: 0 8px 10px rgb(169, 163, 163);
+  border: 4px solid rgb(56, 132, 224);
+}
+
+.loghead {
+  display: flex;
+  margin-left: 60%;
+  color: rgb(56, 132, 224);
+  font-weight: 700;
+}
+
+.signup {
+  display: flex;
+
+}
+
+.signupbt {
+  padding-left: 30%;
+  margin: 10px;
+}
+
+/* homepage */
+.navlogbt {
+  padding-left: 90%;
+}
+
+.addtask {
+  margin-top: 40px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.homenav2a{
+  display: flex;
+  justify-content: space-between;
+}
+
+.homenav2 {
+  border: 2px rgb(120, 117, 117) solid;
+  margin-left: 2px;
+  margin-top: 20px;
+  padding: 12px;
+}
+
+.s1 {
+  padding-top: 7px;
+  padding-right: 10px;
+}
+
+.s2 {
+
+  padding-top: 7px;
+  padding-right: 5px;
+
+}
+
+.contenthd {
+  background-color: rgb(56, 132, 224);
+}
+
+.cls {
+  margin-right: 20px;
+  margin-top: 30px;
+  border: 2px solid rgb(207, 200, 200);
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.bts {
+  margin: 5px;
+}
+
+/* signup page */
+.signcontent {
+  border: 2px solid rgb(56, 132, 224);
+  padding: 20px;
+  margin-left: 35%;
+}
+
+.in {
+  /* margin-bottom: 10px; */
+}
+
+.signuphead {
+  display: flex;
+  margin-left: 35%;
+  color: rgb(56, 132, 224);
+  font-weight: 700;
+  margin-top: 50px;
+}
+
+/* craete */
+.createnav2 {
+  border: rgb(185, 173, 173) 1px solid;
+  margin-top: 40px;
+  padding: 20px;
+  box-shadow: 0 6px 6px rgb(169, 163, 163);
+  width: 95%;
+}
+
+.createnav3 {
+  margin-bottom: 15px;
+
+}
+
+.createnav4 {
+  border: rgb(185, 173, 173) 1px solid;
+  margin-top: 40px;
+  padding: 20px;
+  box-shadow: 0 6px 6px rgb(169, 163, 163);
+  width: 95%;
+
+}
+
+.createin {
+  background-color: rgb(206, 222, 241);
+  width: 500px;
+  border: none;
+  box-shadow: 0 2px 2px rgb(169, 163, 163);
+  margin-bottom: 10px;
+}
+
+.task {
+  padding: 15px;
+}
+
+.taskin {
+  margin-top: 10px;
+  /* display: flex; */
+}
